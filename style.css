@@ -132,7 +132,7 @@ a, button {
 }
 .head-container {
 	padding-top: 4%;
-	padding-left: 10%;
+	/* padding-left: 15%; */
 	background-image: url('images/icon/back.png');
 	position: relative;
 height: 100vh;
